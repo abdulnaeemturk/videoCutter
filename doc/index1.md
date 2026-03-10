@@ -44,5 +44,3 @@ ffmpeg -ss START -i input.mp4 -t DURATION -c copy segment.mp4
 ```bash
 ffmpeg -f concat -safe 0 -i list.txt -c copy final.mp4
 ```
-```
-```
