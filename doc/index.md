@@ -1,7 +1,5 @@
 
----
-
-# 2️⃣ `docs/index.md`
+# `docs/index.md`
 
 ```markdown
 # Example 0 – Advanced Multi-Cut Video Tool
