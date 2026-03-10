@@ -1,10 +1,5 @@
----
-# `docs/index1.md`
+# index1.md
 ```markdown
----
-title: "Example 1 – Professional Video Cutter"
----
-
 # Example 1 – Professional Video Cutter
 
 This example demonstrates a **web-based video cutter** that allows users to:
@@ -50,4 +45,3 @@ ffmpeg -ss START -i input.mp4 -t DURATION -c copy segment.mp4
 ffmpeg -f concat -safe 0 -i list.txt -c copy final.mp4
 ```
 ```
----
